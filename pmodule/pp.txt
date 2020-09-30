@@ -1,2 +1,3 @@
 ppp
 mod parent sametime
+mod team both
