@@ -3,3 +3,4 @@ mod on child
 child self2
 mod parent
 mod team both
+topic on sub
