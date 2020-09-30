@@ -6,3 +6,4 @@ mod team both
 topic on sub
 topic sub2
 topic psub
+topic sub3
